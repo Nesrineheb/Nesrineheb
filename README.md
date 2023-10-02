@@ -1,6 +1,7 @@
 # Hey, I'm Nesrine Hebbadj 👩🏼‍💻!
 
-📝 My Researchgate profile [Contact via ResearchGate](https://www.researchgate.net/profile/Nesrine-Hebbadj/research)
+📝 My Researchgate profile [ResearchGate](https://www.researchgate.net/profile/Nesrine-Hebbadj/research)
+
 📝 My meduim blog [Medium](https://medium.com/@hn_hebbadj)
 
 📚 My research article was accepted at IEEE: [Read Article](https://www.researchgate.net/publication/367209237_OCFR_2022_Competition_on_Occluded_Face_Recognition_from_Synthetically_Generated_Structure-Aware_Occlusions)

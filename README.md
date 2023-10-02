@@ -1,4 +1,4 @@
-# 🌟 Nesrine Hebbadj: Unleashing the Power of Technology and Imagination! 🚀
+# 🌟 Nesrine Hebbadj 🚀
 
 🌐 Explore my Researchgate profile: [ResearchGate](https://www.researchgate.net/profile/Nesrine-Hebbadj/research)
 
